@@ -5,5 +5,6 @@ public class SIGMA
     public static void main(String[] args)
     {
         System.out.println("SigmaGEO");
+        System.out.println("=========================");
     }
 }
