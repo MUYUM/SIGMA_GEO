@@ -14,12 +14,12 @@ public class OCS_PCS_DTA implements Runnable
     {
         try
         {
-            while(true)
-            {
-                Thread.sleep(250);
-            }
+//            while(true)
+//            {
+//                Thread.sleep(250);
+//            }
         }
-        catch (InterruptedException e)
+        catch (Exception e)
         {
            
         }
